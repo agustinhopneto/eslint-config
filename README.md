@@ -45,12 +45,11 @@ npm install @agustinhopneto/eslint-config --save-dev
 
 ## Usage
 
-In yout `eslint config file`, put:
+In your `eslint config file`, put:
 
 ```json
 {
   "extends": ["@agustinhopneto/eslint-config/node"]
-  ...
 }
 ```
 
