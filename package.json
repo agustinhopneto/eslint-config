@@ -1,6 +1,6 @@
 {
   "name": "@agustinhopneto/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal ESLint and Prettier configurations for TypeScript.",
   "private": false,
   "main": "node.js",
