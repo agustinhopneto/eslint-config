@@ -16,6 +16,7 @@ module.exports = {
   plugins: ['@typescript-eslint', 'eslint-plugin-import-helpers'],
   rules: {
     'no-useless-constructor': 'off',
+    'no-useless-return': 'off',
     'prettier/prettier': [
       'error',
       {
